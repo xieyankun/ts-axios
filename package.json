@@ -1,0 +1,22 @@
+{
+  "name": "axios-tslang",
+  "version": "0.0.1",
+  "description": "TypeScript version of Axios",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieyankun/ts-axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xieyankun/ts-axios/issues"
+  },
+  "homepage": "https://github.com/xieyankun/ts-axios#readme"
+}
